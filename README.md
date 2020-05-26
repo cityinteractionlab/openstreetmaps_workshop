@@ -1,2 +1,17 @@
-# street_networks
-Repository for open data of street network adjacency matrices.
+# street networks
+In this repository we collect open data of street networks.
+We collect this data using several open packages, such as osmnx, python package. 
+This repository is inpired by osmnx package 
+https://github.com/gboeing/osmnx-examples/blob/master/notebooks/06-example-osmnx-networkx.ipynb
+
+# data 
+Here we collect data on adjacency matrices from graphs, corresponding to various street networks around the globe.
+We make API call to open street maps to get data from Tokyo, Manhattan, Moscow and Kathmandu streets.
+
+
+
+# contributions 
+
+Repository is under progress and open for contributions. 
+
+

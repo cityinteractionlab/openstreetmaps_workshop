@@ -12,6 +12,6 @@ We make API call to open street maps to get data from Tokyo, Manhattan, Moscow a
 
 # contributions 
 
-Repository is under progress and open for contributions. 
+Repository is under progress and open for contributions. Authors: Liubov together with inria
 
 

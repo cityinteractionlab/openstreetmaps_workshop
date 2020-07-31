@@ -6,12 +6,12 @@ https://github.com/gboeing/osmnx-examples/blob/master/notebooks/06-example-osmnx
 
 # data 
 Here we collect data on adjacency matrices from graphs, corresponding to various street networks around the globe.
-We make API call to open street maps to get data from Tokyo, Manhattan, Moscow and Kathmandu streets.
+We make API call to openstreetmaps to get data from various cities, such as Tokyo, Manhattan, Moscow and Kathmandu streets.
 
 
 
 # contributions 
 
-Repository is under progress and open for contributions. Authors: Liubov together with inria
+Repository is under progress and open for contributions. Authors: Liubov together with inria.
 
 
